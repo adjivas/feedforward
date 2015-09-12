@@ -20,7 +20,7 @@ cargo build
 |__ LICENSE
 |__ README.md
 \__ src
-    \__ main.rs
+    \__ bin.rs
 ```
 
 # License
