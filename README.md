@@ -1,5 +1,5 @@
-Feed-Forward
-============
+Feedforward
+===========
 
 [![Build Status](https://travis-ci.org/adjivas/feedforward.svg)](https://travis-ci.org/adjivas/feedforward)
 [![GPLv3 License](http://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/copyleft/gpl.html)
